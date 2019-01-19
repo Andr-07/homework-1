@@ -1,0 +1,10 @@
+{
+"number": 23,
+"string": "Andrey",
+"boolean": true,
+"object": {
+  "mass": [1,2,3]
+},
+"null":null
+  
+}
